@@ -1,11 +1,11 @@
 from distutils.core import setup
 
 setup(
-    name='Coverity',
+    name='coverity',
     version='0.1.0',
     author='Jon Jarboe',
     author_email='jjarboe@coverity.com',
-    packages=['coverity.ws', 'coverity.email', 'coverity.templates'],
+    packages=['coverity','coverity.ws', 'coverity.email', 'coverity.templates'],
     scripts=['bin/doemail.py'],
     url='http://pypi.python.org/pypi/Coverity/',
     license='LICENSE.txt',

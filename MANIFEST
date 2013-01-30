@@ -3,6 +3,7 @@ LICENSE.txt
 README.txt
 setup.py
 bin/doemail.py
+coverity/__init__.py
 coverity/email/__init__.py
 coverity/templates/__init__.py
 coverity/templates/cim_charts.py
