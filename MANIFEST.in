@@ -1,2 +1,5 @@
 include *.txt
+
+include distribute_setup.py
+
 recursive-include docs *.txt
